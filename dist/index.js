@@ -8,4 +8,6 @@ let c = {
 };
 let d = c.apple * 4;
 console.log(`${d}`);
+const aa = { bb: 12 };
+console.log(aa.bb);
 //# sourceMappingURL=index.js.map
